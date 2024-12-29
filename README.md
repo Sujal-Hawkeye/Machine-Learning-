@@ -10,3 +10,6 @@ Machine learning Practical which I have performed during the college 3rd Semeste
 6. K-Means Clustering
 7. Principal Component Analysis
 
+
+# You Can Use the codes for yourself by using your own Dataset
+
